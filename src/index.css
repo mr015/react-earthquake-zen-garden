@@ -1,0 +1,16 @@
+body {
+  /* background-color: gray; */
+  padding: 20px;
+  margin: 10px;
+}
+.ws{
+  text-align:right;
+  float:right;
+}
+.eq{
+  text-align: center;
+  float:center;
+}
+h1, h2, p, ul, li {
+  font-family: sans-serif;
+}
